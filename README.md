@@ -9,3 +9,9 @@ http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/index.html
 
 
 json的每个entry保留了partent节点的代码，可以在程序内重新构建树状层级关系
+
+
+当前环境使用Python 3.6，在执行本程序前请对相应变量进行更改。
+
+
+部分代码参考了网上的示例代码，如有侵权请创建issue联系本人。
